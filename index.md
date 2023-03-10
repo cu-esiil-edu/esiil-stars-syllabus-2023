@@ -110,8 +110,9 @@ During the spring training we will cover the following topics:
 * Spatial data (vectors)
 * Spatial data (rasters)
 
-Starting in the summer semester (late-May / early-June), group projects will begin. From here through the end of the internship (late-July / early-August), the meetings will increase to 2x weekly for group check-ins, regular progress reports, and help sessions for group projects.
 
+### Summer Group Projects 
+Starting in the summer semester (late-May / early-June), group projects will begin. From here through the end of the internship (late-July / early-August), the meetings will increase to 2x weekly for group check-ins, regular progress reports, and help sessions for group projects. Each team will present their group project during a final presentation and in written form through a project blog post.
 
 
 ***
