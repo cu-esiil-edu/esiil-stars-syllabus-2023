@@ -55,7 +55,7 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ### **Jim Sanovia**
 
-* Education Trainer - ESIIL
+* ESIIL Tribal Resilience Data Scientist - ESIIL
 * **Email:** _[jasa9153@colorado.edu ](jasa9153@colorado.edu)_
 * **Website:** _[https://esiil.org/our-team](https://esiil.org/our-team)_
 
