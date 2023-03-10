@@ -19,7 +19,7 @@ This represents a partnership between [Oglala Lakota College [OLC]](https://www.
 
 
 * Interim Director of Education - Earth Lab; ESIIL
-* **Email:** _[naqu1888@colorado.edu](naqu1888@colorado.edu)_
+* **Email:** <a href = "mailto: naqu1888@colorado.edu" target="_blank">naqu1888@colorado.edu</a>
 * **Website:** _[https://earthlab.colorado.edu/our-team/nathan-quarderer](https://earthlab.colorado.edu/our-team/nathan-quarderer)_
 
 ***
