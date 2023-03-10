@@ -56,8 +56,23 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 * **Email:** _[jasa9153@colorado.edu ](jasa9153@colorado.edu)_
 * **Website:** _[https://esiil.org/our-team](https://esiil.org/our-team)_
 
-## **Textbook**
+
+***
+
+
+## Course Links:
+**Textbook:**
 [https://www.earthdatascience.org/](https://www.earthdatascience.org/)
+
+**Discourse:**
+<a href="https://earthlab.earthdatascience.org/" target="_blank">https://earthlab.earthdatascience.org/</a>
+
+**Slack Workspace**:
+
+**ESIIL Education GitHub Organization:**
+<a href="https://github.com/cu-esiil-edu" target="_blank">https://github.com/cu-esiil-edu</a>
+
+
 
 
 ***
