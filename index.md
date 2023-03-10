@@ -22,9 +22,7 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 * **Email:** _[naqu1888@colorado.edu](naqu1888@colorado.edu)_
 * **Website:** _[https://earthlab.colorado.edu/our-team/nathan-quarderer](https://earthlab.colorado.edu/our-team/nathan-quarderer)_
 
-
 ***
-
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
 
@@ -61,5 +59,22 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ## **Textbook**
 [https://www.earthdatascience.org/](https://www.earthdatascience.org/)
+
+
+***
+
+## **Code of Conduct** (borrowed from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
+
+<img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="200" height="200">
+
+* Use welcoming and inclusive language
+
+* Be respectful of different viewpoints and experiences
+
+* Gracefully accept constructive criticism
+
+* Focus on what is best for the community
+
+* Show courtesy and respect towards other community members
 
 
