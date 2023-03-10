@@ -6,8 +6,6 @@
 <img align="right" width="325" height="150" src="https://pbs.twimg.com/profile_images/1537109064093532160/mG03dW9G_400x400.jpg">
 
 
-***
-
 
 Welcome to the **ESIIL Stars** Internship 2023! We are excited to have you in class for the next few months as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using Python.
 
