@@ -32,7 +32,6 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 * **Email:** _[elcu4811@colorado.edu](elcu4811@colorado.edu)_
 * **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)
 
-
 ***
 
 
