@@ -59,6 +59,26 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ***
 
+## **Faculty Mentors** 
+(please add your profiles)
+
+
+***
+
+## **ESIIL Interns** 
+(please add your profiles)
+
+
+
+***
+
+## **EDSC Advanced Intern Peer Mentors** 
+(please add your profiles)
+
+
+
+***
+
 
 ## Course Links:
 **Zoom:** (see email for passcode)
