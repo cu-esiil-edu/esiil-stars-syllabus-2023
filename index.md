@@ -5,6 +5,8 @@ Welcome to the **ESIIL Stars** Internship 2023! We are excited to have you in cl
 This represents a partnership between [Oglala Lakota College](https://www.olc.edu/), [Metropolitan State University of Denver](), [United Tribes Technical College](https://uttc.edu/), and [The Environmental Data Science Innovation and Inclusion Lab [ESIIL]](https://esiil.org/). ESIIL is a part of the Cooperative Institute for Environmental Sciences ([CIRES](https://cires.colorado.edu/)) at the [University of Colorado Boulder](https://www.colorado.edu/). We are also affiliated with the National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)) and [Earth Lab](https://earthlab.colorado.edu/). We appreciate these partnerships and look forward to working with you all!
 
 
+# Our Team
+
 ## **Instructors**
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
@@ -12,19 +14,41 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 ### **Nathan Quarderer, PhD** 
 
 
-* Interim Director of Education - Earth Lab
+* Interim Director of Education - Earth Lab; ESIIL
 * **Email:** _[naqu1888@colorado.edu](naqu1888@colorado.edu)_
 * **Website:** _[https://earthlab.colorado.edu/our-team/nathan-quarderer](https://earthlab.colorado.edu/our-team/nathan-quarderer)_
 
-----------------------------------------------------------------
+***
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
 
 ### **Elsa Culler, PhD**
 
-* Education Trainer - Earth Lab
+* Education Trainer - Earth Lab; ESIIL
 * **Email:** _[elcu4811@colorado.edu](elcu4811@colorado.edu)_
-* **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)_
+* **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)
+
+
+## **Support Staff**
+
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="125" height="125">
+
+### **Katherine Halama** 
+
+
+* Education Program Coordinator - Earth Lab
+* **Email:** _[kaha4475@colorado.edu](kaha4475@colorado.edu)_
+* **Website:** _[https://earthlab.colorado.edu/our-team/katherine-halama](https://earthlab.colorado.edu/our-team/katherine-halama)_
+
+***
+
+<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="125" height="125">
+
+### **Jim Sanovia**
+
+* Education Trainer - ESIIL
+* **Email:** _[jasa9153@colorado.edu ](jasa9153@colorado.edu)_
+* **Website:** _[https://esiil.org/our-team](https://esiil.org/our-team)_
 
 ## **Textbook**
 [https://www.earthdatascience.org/](https://www.earthdatascience.org/)
