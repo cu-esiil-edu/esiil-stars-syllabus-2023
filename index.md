@@ -1,7 +1,7 @@
 # **ESIIL Stars Spring Training**
 <img align="right" width="450" height="150" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png">
 
-<img align="right" width="170" height="150" src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png">
+<img align="right" width="170" height="170" src="https://pbs.twimg.com/profile_images/1102342372438925312/64xKJFPk_400x400.png">
 
 <img align="right" width="325" height="300" src="https://pbs.twimg.com/profile_images/1537109064093532160/mG03dW9G_400x400.jpg">
 
