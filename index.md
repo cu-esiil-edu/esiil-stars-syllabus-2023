@@ -13,7 +13,7 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ## **Instructors**
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="150" height="150">
 
 ### **Nathan Quarderer, PhD** 
 
@@ -24,7 +24,7 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ***
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="150" height="150">
 
 ### **Elsa Culler, PhD**
 
@@ -38,7 +38,7 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ## **Support Staff**
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="125" height="125">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="150" height="150">
 
 ### **Katherine Halama** 
 
@@ -49,7 +49,7 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 ***
 
-<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="125" height="125">
+<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="150" height="150">
 
 ### **Jim Sanovia**
 
