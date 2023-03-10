@@ -22,7 +22,9 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 * **Email:** _[naqu1888@colorado.edu](naqu1888@colorado.edu)_
 * **Website:** _[https://earthlab.colorado.edu/our-team/nathan-quarderer](https://earthlab.colorado.edu/our-team/nathan-quarderer)_
 
+
 ***
+
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
 
@@ -31,6 +33,9 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 * Education Trainer - Earth Lab; ESIIL
 * **Email:** _[elcu4811@colorado.edu](elcu4811@colorado.edu)_
 * **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)
+
+
+***
 
 
 ## **Support Staff**
