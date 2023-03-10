@@ -1,6 +1,8 @@
 <img style="float: left;" src="https://pbs.twimg.com/profile_images/1537109064093532160/mG03dW9G_400x400.jpg" width="250" height="240"> <img style="float: center;" src="https://drive.google.com/uc?export=view&id=13_P0Dq9rb1aXFFVfspMRn5hlP7t8RuwC" width="300" height="200"> <img style="float: right;" src="https://cires.colorado.edu/sites/all/themes/CIRES_Bootstrap/icons/cires/cires-triplet-new-new_1.png" width="430" height="190">
 
+
 ***
+
 
 Welcome to the **ESIIL Stars** Internship 2023! We are excited to have you in class for the next few months as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using Python.
 
