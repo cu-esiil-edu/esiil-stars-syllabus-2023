@@ -61,6 +61,8 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 
 
 ## Course Links:
+**Zoom:** (see email for passcode)
+
 **Textbook:**
 [https://www.earthdatascience.org/](https://www.earthdatascience.org/)
 
@@ -72,10 +74,29 @@ This represents a partnership between [Oglala Lakota College](https://www.olc.ed
 **ESIIL Education GitHub Organization:**
 <a href="https://github.com/cu-esiil-edu" target="_blank">https://github.com/cu-esiil-edu</a>
 
+***
+
+## Course Schedule (Tentative):
+### Spring Training (mid-March through end-of-semester)
+
+During the opening weeks of the internship, ESIIL instructors will meet with each team weekly to answer questions and check in on interns' progress. Sometime in April we will bring all of the teams together to meet as a large group. 
+
+During the spring training we will cover the following topics:
+* Personal websites
+* GitHub
+* Open science with Python
+* Python fundamentals
+* Tabular and time series data
+* Spatial data (vectors)
+* Spatial data (rasters)
+
+Starting in the summer semester (late-May / early-June), group projects will begin. From here through the end of the internship (late-July / early-August), the meetings will increase to 2x weekly for group check-ins, regular progress reports, and help sessions for group projects.
 
 
 
 ***
+
+
 
 ## **Code of Conduct** (borrowed from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
 
