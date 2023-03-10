@@ -123,7 +123,7 @@ Starting in the summer semester (late-May / early-June), group projects will beg
 
 
 > ## **Code of Conduct** (borrowed from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
-> <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="200" height="200">
+> <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
 > 
 > * Use welcoming and inclusive language
 > 
