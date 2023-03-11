@@ -55,7 +55,8 @@ We appreciate these partnerships and look forward to working with you all!
 * <a href="https://earthlab.colorado.edu/our-team/katherine-halama" target="_blank">**Website**</a>
 
 ***
-
+<img src="https://www.olc.edu/theme/olc/images/logo.png">
+  
 ## Oglala Lakota College (OLC)
 ### **Faculty Mentors** 
 (please add your profiles)
