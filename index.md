@@ -6,6 +6,12 @@
 
 Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2023! We are excited to have you in class for the next few months as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using Python. This is our first year of the ESIIL Stars Internship and we're glad to be getting started with you all as the first cohort of interns. ESIIL Stars is modeled after the Harnessing the Data Revolution (HDR) Earth Data Science Corps (<a href="https://earthlab.colorado.edu/edsc" target="_blank">**EDSC**</a>), which took place from 2020-2022. Both of these programs are funded by the National Science Foundation (<a href="https://nsf.gov/" target="_blank">**NSF**</a>).
 
+> ### :star: ESIIL Stars aims to meet the following objectives through technical training and project based learning: 
+> * Train the next generation of Earth and Environmental Data Scientists
+> * Answer relevant GIS and Earth/Environmental science questions
+> * Diversify the EDS workforce
+> * Build capacity to teach & learn EDS at partner institutions
+
 This work represents a partnership between <a href="https://www.olc.edu/" target="_blank">**Oglala Lakota College (OLC)**</a>, <a href="https://www.msudenver.edu/" target="_blank">**Metropolitan State University of Denver (MSU)**</a>, <a href="https://uttc.edu/" target="_blank">**United Tribes Technical College (UTTC)**</a>, and <a href="https://esiil.org/" target="_blank">**The Environmental Data Science Innovation and Inclusion Lab (ESIIL)**</a>. ESIIL is a part of the Cooperative Institute for Environmental Sciences (<a href="https://cires.colorado.edu/" target="_blank">**CIRES**</a>) at the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a>. We are also affiliated with the National Oceanic and Atmospheric Administration (<a href="https://www.noaa.gov/" target="_blank">**NOAA**</a>) and <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a>.  
 
 We appreciate these partnerships and look forward to working with you all!
