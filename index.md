@@ -20,7 +20,6 @@ We appreciate these partnerships and look forward to working with you all!
 
 ### **Nathan Quarderer, PhD** 
 
-
 * Interim Director of Education - Earth Lab; ESIIL
 * <a href = "mailto: naqu1888@colorado.edu" target="_blank">**Email** </a>
 * <a href = "https://earthlab.colorado.edu/our-team/nathan-quarderer" target="_blank">**Website**</a>
@@ -37,18 +36,6 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="150" height="150">
-
-### **Katherine Halama** 
-
-
-* Education Program Coordinator - Earth Lab
-* <a href="mailto: kaha4475@colorado.edu" target="_blank"> **Email**</a>
-* <a href="https://earthlab.colorado.edu/our-team/katherine-halama" target="_blank">**Website**</a>
-
-***
-
 <img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="150" height="150">
 
 ### **Jim Sanovia**
@@ -57,19 +44,54 @@ We appreciate these partnerships and look forward to working with you all!
 * <a href="mailto: jasa9153@colorado.edu" target="_blank">**Email**
 * <a href="https://esiil.org/our-team" target="_blank">**Website**</a>
 
+***
+
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="150" height="150">
+
+### **Katherine Halama** 
+
+* Education Program Coordinator - Earth Lab
+* <a href="mailto: kaha4475@colorado.edu" target="_blank"> **Email**</a>
+* <a href="https://earthlab.colorado.edu/our-team/katherine-halama" target="_blank">**Website**</a>
 
 ***
 
-## **Faculty Mentors** 
+## Oglala Lakota College (OLC)
+### **Faculty Mentors** 
 (please add your profiles)
 
 
 ***
 
-## **ESIIL Interns** 
+### **ESIIL Interns** 
 (please add your profiles)
 
 
+***
+
+## Metropolitan State University of Denver (MSU)
+### **Faculty Mentors** 
+(please add your profiles)
+
+
+***
+
+### **ESIIL Interns** 
+(please add your profiles)
+
+***
+  
+***
+
+## United Tribes Technical College (UTTC)
+### **Faculty Mentors** 
+(please add your profiles)
+
+
+***
+
+### **ESIIL Interns** 
+(please add your profiles)
 
 ***
 
@@ -102,18 +124,18 @@ We appreciate these partnerships and look forward to working with you all!
 
 During the opening weeks of the internship, ESIIL instructors will meet with each team weekly to answer questions and check in on interns' progress. Sometime in April we will bring all of the teams together to meet as a large group. 
 
-During the spring training we will cover the following topics:
-* Personal websites
-* GitHub
-* Open science with Python
+**During the spring training we will cover the following topics:**
+* Personal websites with **GitHub Pages**
+* GitHub for collaboration
+* **Open** and **reproducible** science with Python
 * Python fundamentals
-* Tabular and time series data
-* Spatial data (vectors)
-* Spatial data (rasters)
-
+* Tabular and **time-series** data
+* **Vector** and **raster** spatial data
 
 ### Summer Group Projects 
-Starting in the summer semester (late-May / early-June), group projects will begin. From here through the end of the internship (late-July / early-August), the meetings will increase to 2x weekly for group check-ins, regular progress reports, and help sessions for group projects. Each team will present their group project during a final presentation and in written form through a project blog post during the final week of the internship.
+Starting in the summer semester (**late-May / early-June**), group projects will begin. From here through the end of the internship (**late-July / early-August**), teams will begin checking-in multiple times per week for regular progress reports, and help sessions for group projects. Each team will be responsible for **designing their own project** that they can use apply the EDS skills learned during the Spring Training. Each team will present their group project during a **final presentation** and in written form through a **project blog post during** the final week of the internship. We will post your presentations and blogs to our <a href="https://www.youtube.com/@earthlabcuboulder458/featured" target="_blank">**YouTube**</a> channel and other **social media**.
+
+Click <a href="https://earthlab.colorado.edu/our-work/teaching-and-learning-earth-data-science/earth-data-science-corps/earth-data-science-corps-projects" target="_blank">**here**</a> to see what kinds of projects the EDSC teams completed as part of their internships.
 
 
 ***
