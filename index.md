@@ -147,15 +147,15 @@ Click <a href="https://earthlab.colorado.edu/our-work/teaching-and-learning-eart
 > ## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
 > <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
 > 
-> * Use welcoming and inclusive language
+> * **Use welcoming and inclusive language**
 > 
-> * Be respectful of different viewpoints and experiences
+> * **Be respectful of different viewpoints and experiences**
 > 
-> * Gracefully accept constructive criticism
+> * **Gracefully accept constructive criticism**
 > 
-> * Focus on what is best for the community
+> * **Focus on what is best for the community**
 > 
-> * Show courtesy and respect towards other community members
+> * **Show courtesy and respect towards other community members**
 
 
 
