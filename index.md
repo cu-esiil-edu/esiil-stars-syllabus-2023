@@ -30,7 +30,7 @@ This work represents a partnership between <a href="https://www.olc.edu/" target
 ### **Elsa Culler, PhD**
 
 * Education Trainer - Earth Lab; ESIIL
-* <a href="elcu4811@colorado.edu" target = "_blank">**Email**</a>
+* <a href="mailto: elcu4811@colorado.edu" target = "_blank">**Email**</a>
 * <a href="https://earthlab.colorado.edu/our-team/elsa-culler" target="_blank">**Website**</a>
 
 ***
@@ -42,8 +42,8 @@ This work represents a partnership between <a href="https://www.olc.edu/" target
 
 
 * Education Program Coordinator - Earth Lab
-* **Email:** _[kaha4475@colorado.edu](kaha4475@colorado.edu)_
-* **Website:** _[https://earthlab.colorado.edu/our-team/katherine-halama](https://earthlab.colorado.edu/our-team/katherine-halama)_
+* <a href="mailto: kaha4475@colorado.edu" target="_blank"> **Email**</a>
+* <a href="https://earthlab.colorado.edu/our-team/katherine-halama" target="_blank">**Website**</a>
 
 ***
 
@@ -52,8 +52,8 @@ This work represents a partnership between <a href="https://www.olc.edu/" target
 ### **Jim Sanovia**
 
 * ESIIL Tribal Resilience Data Scientist - ESIIL
-* **Email:** _[jasa9153@colorado.edu ](jasa9153@colorado.edu)_
-* **Website:** _[https://esiil.org/our-team](https://esiil.org/our-team)_
+* <a href="mailto: jasa9153@colorado.edu" target="_blank">**Email**
+* <a href="https://esiil.org/our-team" target="_blank">**Website**</a>
 
 
 ***
@@ -83,15 +83,15 @@ This work represents a partnership between <a href="https://www.olc.edu/" target
 **Zoom:** (see email for passcode)
 
 **Textbook:**
-[https://www.earthdatascience.org/](https://www.earthdatascience.org/)
+<a href="https://www.earthdatascience.org/" target="_blank">**https://www.earthdatascience.org/**</a>
 
 **Discourse:**
-<a href="https://earthlab.earthdatascience.org/" target="_blank">https://earthlab.earthdatascience.org/</a>
+<a href="https://earthlab.earthdatascience.org/" target="_blank">**https://earthlab.earthdatascience.org/**</a>
 
 **Slack Workspace**:
 
 **ESIIL Education GitHub Organization:**
-<a href="https://github.com/cu-esiil-edu" target="_blank">https://github.com/cu-esiil-edu</a>
+<a href="https://github.com/cu-esiil-edu" target="_blank">**https://github.com/cu-esiil-edu**</a>
 
 ***
 
@@ -118,7 +118,7 @@ Starting in the summer semester (late-May / early-June), group projects will beg
 
 
 
-> ## **Code of Conduct** (borrowed from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
+> ## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
 > <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
 > 
 > * Use welcoming and inclusive language
