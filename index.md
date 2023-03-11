@@ -137,25 +137,22 @@ During the opening weeks of the internship, ESIIL instructors will meet with eac
 ### Summer Group Projects 
 Starting in the summer semester (**late-May / early-June**), group projects will begin. From here through the end of the internship (**late-July / early-August**), teams will begin checking-in multiple times per week for regular progress reports, and help sessions for group projects. Each team will be responsible for **designing their own project** that they can use apply the EDS skills learned during the Spring Training. Each team will present their group project during a **final presentation** and in written form through a **project blog post during** the final week of the internship. We will post your presentations and blogs to our <a href="https://www.youtube.com/@earthlabcuboulder458/featured" target="_blank">**YouTube**</a> channel and other **social media**.
 
-Click <a href="https://earthlab.colorado.edu/our-work/teaching-and-learning-earth-data-science/earth-data-science-corps/earth-data-science-corps-projects" target="_blank">**here**</a> to see what kinds of projects the **EDSC** teams completed as part of their internships.
+> Click <a href="https://earthlab.colorado.edu/our-work/teaching-and-learning-earth-data-science/earth-data-science-corps/earth-data-science-corps-projects" target="_blank">**here**</a> to see what kinds of projects the **EDSC** teams completed as part of their internships.
 
 
 ***
 
 
 
-> ## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
-> <img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
-> 
-> * **Use welcoming and inclusive language**
-> 
-> * **Be respectful of different viewpoints and experiences**
-> 
-> * **Gracefully accept constructive criticism**
-> 
-> * **Focus on what is best for the community**
-> 
-> * **Show courtesy and respect towards other community members**
+## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
+  
+<img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
+
+* **Use welcoming and inclusive language**
+* **Be respectful of different viewpoints and experiences**
+* **Gracefully accept constructive criticism**
+* **Focus on what is best for the community** 
+* **Show courtesy and respect towards other community members**
 
 
 
