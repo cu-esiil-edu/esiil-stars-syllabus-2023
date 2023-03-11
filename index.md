@@ -69,6 +69,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 ***
+<img src="https://www.msudenver.edu/wp-content/uploads/2022/09/MSUDenver_Formal_2CPos_BlueRed_WhBkgd_FormatA_PAN91.png">
 
 ## Metropolitan State University of Denver (MSU)
 ### **Faculty Mentors** 
@@ -81,8 +82,8 @@ We appreciate these partnerships and look forward to working with you all!
 (please add your profiles)
 
 ***
-  
-***
+
+<img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
 
 ## United Tribes Technical College (UTTC)
 ### **Faculty Mentors** 
@@ -136,7 +137,7 @@ During the opening weeks of the internship, ESIIL instructors will meet with eac
 ### Summer Group Projects 
 Starting in the summer semester (**late-May / early-June**), group projects will begin. From here through the end of the internship (**late-July / early-August**), teams will begin checking-in multiple times per week for regular progress reports, and help sessions for group projects. Each team will be responsible for **designing their own project** that they can use apply the EDS skills learned during the Spring Training. Each team will present their group project during a **final presentation** and in written form through a **project blog post during** the final week of the internship. We will post your presentations and blogs to our <a href="https://www.youtube.com/@earthlabcuboulder458/featured" target="_blank">**YouTube**</a> channel and other **social media**.
 
-Click <a href="https://earthlab.colorado.edu/our-work/teaching-and-learning-earth-data-science/earth-data-science-corps/earth-data-science-corps-projects" target="_blank">**here**</a> to see what kinds of projects the EDSC teams completed as part of their internships.
+Click <a href="https://earthlab.colorado.edu/our-work/teaching-and-learning-earth-data-science/earth-data-science-corps/earth-data-science-corps-projects" target="_blank">**here**</a> to see what kinds of projects the **EDSC** teams completed as part of their internships.
 
 
 ***
