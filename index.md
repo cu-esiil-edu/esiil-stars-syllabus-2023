@@ -14,16 +14,14 @@ This work represents a partnership between <a href="https://www.olc.edu/" target
 
 # Meet Our Team
 
-## **Instructors**
-
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="150" height="150">
 
 ### **Nathan Quarderer, PhD** 
 
 
 * Interim Director of Education - Earth Lab; ESIIL
-* **Email:** <a href = "mailto: naqu1888@colorado.edu" target="_blank">naqu1888@colorado.edu</a>
-* **Website:** _[https://earthlab.colorado.edu/our-team/nathan-quarderer](https://earthlab.colorado.edu/our-team/nathan-quarderer)_
+* <a href = "mailto: naqu1888@colorado.edu" target="_blank">**Email** </a>
+* <a href = "https://earthlab.colorado.edu/our-team/nathan-quarderer" target="_blank">**Website**</a>
 
 ***
 
@@ -32,13 +30,11 @@ This work represents a partnership between <a href="https://www.olc.edu/" target
 ### **Elsa Culler, PhD**
 
 * Education Trainer - Earth Lab; ESIIL
-* **Email:** _[elcu4811@colorado.edu](elcu4811@colorado.edu)_
-* **Website:** _[https://earthlab.colorado.edu/our-team/elsa-culler](https://earthlab.colorado.edu/our-team/elsa-culler)_
+* <a href="elcu4811@colorado.edu" target = "_blank">**Email**</a>
+* <a href="https://earthlab.colorado.edu/our-team/elsa-culler" target="_blank">**Website**</a>
 
 ***
 
-
-## **Support Staff**
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="150" height="150">
 
