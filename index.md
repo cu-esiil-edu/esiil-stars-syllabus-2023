@@ -7,7 +7,7 @@
 
 
 
-Welcome to the **ESIIL Stars** Internship 2023! We are excited to have you in class for the next few months as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using Python.
+Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2023! We are excited to have you in class for the next few months as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using Python.
 
 This work represents a partnership between <a href="https://www.olc.edu/" target="_blank">**Oglala Lakota College (OLC)**</a>, <a href="https://www.msudenver.edu/" target="_blank">**Metropolitan State University of Denver (MSU)**</a>, <a href="https://uttc.edu/" target="_blank">**United Tribes Technical College (UTTC)**</a>, and <a href="https://esiil.org/" target="_blank">**The Environmental Data Science Innovation and Inclusion Lab (ESIIL)**</a>. ESIIL is a part of the Cooperative Institute for Environmental Sciences (<a href="https://cires.colorado.edu/" target="_blank">**CIRES**</a>) at the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a>. We are also affiliated with the National Oceanic and Atmospheric Administration (<a href="https://www.noaa.gov/" target="_blank">**NOAA**</a>) and <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a>. We appreciate these partnerships and look forward to working with you all!
 
