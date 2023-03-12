@@ -1,5 +1,6 @@
 <img align="right" width="1000" height="200" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
+***
 
 Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2023! We are excited to have you in class for the next few months as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using **Python**. This is our first year of the ESIIL Stars Internship and we're glad to be getting started with you all as the first cohort of interns. ESIIL Stars is modeled after the Harnessing the Data Revolution (HDR) **Earth Data Science Corps** (<a href="https://earthlab.colorado.edu/edsc" target="_blank">**EDSC**</a>), which took place from 2020-2022. Both of these programs are funded by the **National Science Foundation** (<a href="https://nsf.gov/" target="_blank">**NSF**</a>).
 
