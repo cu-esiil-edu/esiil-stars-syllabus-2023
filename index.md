@@ -128,7 +128,7 @@ ESIIL instructors will meet with each team weekly to answer questions and check-
 
 > ### Spring training will include the following topics:
 > * Personal websites with **GitHub Pages**
-> * GitHub for collaboration
+> * **GitHub** for collaboration
 > * **Open** and **reproducible** science with Python
 > * **Python** fundamentals
 > * Tabular and **time-series** data
