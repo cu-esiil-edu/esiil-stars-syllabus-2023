@@ -111,6 +111,8 @@ We appreciate these partnerships and look forward to working with you all!
 
 ## Course Links:
 **Zoom:** (see email for passcode)
+<a href="https://cuboulder.zoom.us/j/6928975735" target="_blank">**Join Zoom Meeting**</a>
+
 
 **Textbook:**
 <a href="https://www.earthdatascience.org/" target="_blank">**https://www.earthdatascience.org/**</a>
@@ -118,7 +120,9 @@ We appreciate these partnerships and look forward to working with you all!
 **Discourse:**
 <a href="https://earthlab.earthdatascience.org/" target="_blank">**https://earthlab.earthdatascience.org/**</a>
 
-**Slack Workspace**:
+**Slack Workspace**: 
+<a href="https://join.slack.com/t/esiilstars/shared_invite/zt-1r8wsftrl-9iMUj5gf6jWQH6sIKQer8A" target="_blank">**Join here**</a>
+
 
 **ESIIL Education GitHub Organization:**
 <a href="https://github.com/cu-esiil-edu" target="_blank">**https://github.com/cu-esiil-edu**</a>
@@ -145,7 +149,6 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 
 
 ***
-
 
 
 ## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
