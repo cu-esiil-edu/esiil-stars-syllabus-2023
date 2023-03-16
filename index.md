@@ -55,10 +55,21 @@ We appreciate these partnerships and look forward to working with you all!
 ### **Katherine Halama** 
 
 * Education Program Coordinator - Earth Lab
-* <a href="mailto: kaha4475@colorado.edu" target="_blank"> **Email**</a>
+* <a href="mailto: kaha4475@colorado.edu" target="_blank">**Email**</a>
 * <a href="https://earthlab.colorado.edu/our-team/katherine-halama" target="_blank">**Website**</a>
 
 ***
+
+<img style="float: right;" src="https://www.colorado.edu/geography/sites/default/files/styles/small/public/people/nathan_korinek_headshot.jpg?itok=l70G8Z8e" width="150" height="150">  
+
+### Nathan Korinek
+
+* M.A. Student of Geography; Research Assistant - Earth Lab
+* <a href="mailto: nako1890@colorado.edu" target="_blank">**Email**</a>
+* <a href="https://earthlab.colorado.edu/our-team/nathan-korinek" target="_blank">**Website**</a>
+
+***
+
 <img src="https://www.olc.edu/theme/olc/images/logo.png">
   
 ## Oglala Lakota College (OLC)
@@ -73,6 +84,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 ***
+
 <img src="https://www.msudenver.edu/wp-content/uploads/2022/09/MSUDenver_Formal_2CPos_BlueRed_WhBkgd_FormatA_PAN91.png">
 
 ## Metropolitan State University of Denver (MSU)
@@ -110,7 +122,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 ## Course Links:
-**Zoom:** (see email for passcode)
+**Zoom:**
 <a href="https://cuboulder.zoom.us/j/6928975735" target="_blank">**Join Zoom Meeting**</a>
 
 
