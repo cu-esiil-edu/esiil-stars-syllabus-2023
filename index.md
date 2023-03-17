@@ -70,6 +70,19 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
+<img src="https://www.msudenver.edu/wp-content/uploads/2022/09/MSUDenver_Formal_2CPos_BlueRed_WhBkgd_FormatA_PAN91.png">
+
+## Metropolitan State University of Denver (MSU)
+### **Faculty Mentors** 
+(please add your profiles)
+
+***
+
+### **ESIIL Interns** 
+(please add your profiles)
+
+***
+  
 <img src="https://www.olc.edu/theme/olc/images/logo.png">
   
 ## Oglala Lakota College (OLC)
@@ -85,19 +98,6 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img src="https://www.msudenver.edu/wp-content/uploads/2022/09/MSUDenver_Formal_2CPos_BlueRed_WhBkgd_FormatA_PAN91.png">
-
-## Metropolitan State University of Denver (MSU)
-### **Faculty Mentors** 
-(please add your profiles)
-
-
-***
-
-### **ESIIL Interns** 
-(please add your profiles)
-
-***
 
 <img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
 
