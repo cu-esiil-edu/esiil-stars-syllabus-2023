@@ -164,6 +164,10 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 
 ***
 
+## Spring Training Assignments
+* Assignment 0: GitHub Pages
+  
+***
 
 ## **Code of Conduct** (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
   
