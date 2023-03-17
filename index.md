@@ -22,7 +22,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="150" height="150">
 
-### **Nathan Quarderer** 
+### **Nate Quarderer** 
 
 * Interim Director of Education - Earth Lab; ESIIL
 * <a href = "mailto: naqu1888@colorado.edu" target="_blank">**Email** </a>
