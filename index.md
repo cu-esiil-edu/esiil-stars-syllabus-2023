@@ -129,7 +129,7 @@ We appreciate these partnerships and look forward to working with you all!
 **ESIIL Education GitHub Organization:**
 <a href="https://github.com/cu-esiil-edu" target="_blank">**https://github.com/cu-esiil-edu**</a>
 
-**GitHub Classroom**
+**GitHub Classroom:**
   
 **Slack Workspace**: 
 <a href="https://join.slack.com/t/esiilstars/shared_invite/zt-1r8wsftrl-9iMUj5gf6jWQH6sIKQer8A" target="_blank">**Join here**</a>
@@ -166,6 +166,22 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 
 ## Spring Training Assignments
 * Assignment 0: GitHub Pages
+  
+***
+  
+## Internship Expectations
+* **Spring Training** (March - May)
+  * **5-10** hrs/wk
+  * Attend weekly team check-ins
+  * Complete weekly assignments
+* **Summer Group Projects** (June - August)
+  * **15-20** hrs/wk
+  * Attend regular team check-ins
+  * Attend weekly large-group meetings
+  * Contribute to group project
+* **Keep weekly log of hours**
+  * Word (Google) doc or spreadsheet
+  * Submit to faculty mentors
   
 ***
 
