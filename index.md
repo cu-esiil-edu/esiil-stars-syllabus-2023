@@ -20,7 +20,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Meet Our Team
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="150" height="150">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
 
 ### **Nate Quarderer** 
 
@@ -30,7 +30,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="150" height="150">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/Elsa%20Culler%20-%20reduced.jpg?itok=RWCtw7K7" width="125" height="125">
 
 ### **Elsa Culler**
 
@@ -40,7 +40,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="150" height="150">
+<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="125" height="125">
 
 ### **Jim Sanovia**
 
@@ -50,7 +50,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="150" height="150">
+<img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/IMG_20210521_202146%20copy.jpg?itok=mhH4wgui" width="125" height="125">
 
 ### **Katherine Halama** 
 
@@ -60,7 +60,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://www.colorado.edu/geography/sites/default/files/styles/small/public/people/nathan_korinek_headshot.jpg?itok=l70G8Z8e" width="150" height="150">  
+<img style="float: right;" src="https://www.colorado.edu/geography/sites/default/files/styles/small/public/people/nathan_korinek_headshot.jpg?itok=l70G8Z8e" width="125" height="125">  
 
 ### Nathan Korinek
 
