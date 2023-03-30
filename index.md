@@ -81,6 +81,15 @@ We appreciate these partnerships and look forward to working with you all!
 ### **ESIIL Interns** 
 (please add your profiles)
 
+<img style="float: right;" src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/me_headshot_square.jpg?raw=true" width="125" height="125">
+ 
+### Rosie Patrick
+ 
+ * Environmental Science Major with Biology Minor and Water Studies Certificate 
+ * [Email](kpatric4@msudenver.edu)
+ * [Website](https://finalfemme.github.io/Rosie-esiil-stars/)
+  
+ 
 ***
   
 <img src="https://www.olc.edu/theme/olc/images/logo.png">
@@ -173,7 +182,7 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 
 ## Spring Training Assignments
   * Assignment 0: <a href="https://cu-esiil-edu.github.io/esiil-stars-student-webpages/" target="_blank">**GitHub Pages**</a>
-  * Assignment 1: <a href="https://cu-esiil-edu.github.io/esiil-stars-student-webpages/" target="_blank">**GitHub for Collaboration**</a>
+  * Assignment 1: <a href="https://cu-esiil-edu.github.io/esiil-stars-github-intro/" target="_blank">**GitHub for Collaboration**</a>
   * Assignment 2: **Open & Reproducible Science with Python**
   
 ***
