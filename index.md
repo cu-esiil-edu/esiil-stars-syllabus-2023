@@ -81,6 +81,13 @@ We appreciate these partnerships and look forward to working with you all!
 ### **ESIIL Interns** 
 (please add your profiles)
 
+### Rosie Patrick
+ 
+ * Enironmental Science Major with Biology Minor and Water Studies Certificate 
+ * [Email](kpatric4@msudenver.edu)
+ * [Website](https://finalfemme.github.io/Rosie-esiil-stars/)
+  
+ 
 ***
   
 <img src="https://www.olc.edu/theme/olc/images/logo.png">
