@@ -166,7 +166,7 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 
 ## Spring Training Assignments
   * Assignment 0: <a href="https://cu-esiil-edu.github.io/esiil-stars-student-webpages/" target="_blank">**GitHub Pages**</a>
-  * Assignment 1: **GitHub for Collaboration**
+  * Assignment 1: <a href="https://cu-esiil-edu.github.io/esiil-stars-student-webpages/" target="_blank">**GitHub for Collaboration**</a>
   
 ***
   
