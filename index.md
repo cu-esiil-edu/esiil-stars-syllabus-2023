@@ -94,7 +94,14 @@ We appreciate these partnerships and look forward to working with you all!
 
 ### **ESIIL Interns** 
 (please add your profiles)
+ 
+  <img style="float: right;" src="https://avatars.githubusercontent.com/u/127763949?v=4" width="125" height="125">
+  
+  ### **Amber Laundreaux** 
 
+* Sophmore at OLC - Information Technology
+* <a href = "mailto: alaundreaux28729@olc.edu" target="_blank">**Email** </a>
+* <a href = "https://amberlx17.github.io/alaundreaux-esiil-webpage/" target="_blank">**Website**</a>
 
 ***
 
