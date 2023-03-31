@@ -102,13 +102,25 @@ We appreciate these partnerships and look forward to working with you all!
  
  ***
  
- <img style="float: right;" src="https://avatars.githubusercontent.com/u/127235615?s=400&u=15e63829ea0875e396012f219a7ed7d97ace5bfd&v=4" width="125" height="125">
+
+ <img style="float:right;" src="https://avatars.githubusercontent.com/u/127805340?v=4" width="125" height="125">
+ 
+ ### Scott Sheldon
+ 
+* Environmental Science Major with Biology Minor
+* <a href="mailto: ssheldo2@msudenver.edu" target = "_blank">**Email**</a>
+* <a href="https://scottnsheldon.github.io/ScottNSheldon-esiil-stars-webpage/" target="_blank">**Website**</a>
+  
+***
+
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/127235615?s=400&u=15e63829ea0875e396012f219a7ed7d97ace5bfd&v=4" width="125" height="125">
  
 ### Meghan Smedes
  
  * Geographic Information Systems Certificate at Metropolitan State University of Denver
  * [Email](msmedes@msudenver.edu)
  * [Website](https://megsmedes.github.io/megsmedes-ESIIL-Stars-Webpage/)
+
  
 ***
   
