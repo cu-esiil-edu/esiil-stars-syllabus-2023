@@ -84,7 +84,7 @@ We appreciate these partnerships and look forward to working with you all!
  
  * MSU Denver Faculty Mentor 
  * [Email](sbrady16@msudenver.edu)
- * [Website](https://https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/)
+ * [Website](https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/)
   
  
 ***
