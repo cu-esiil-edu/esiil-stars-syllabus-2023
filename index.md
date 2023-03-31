@@ -88,6 +88,16 @@ We appreciate these partnerships and look forward to working with you all!
  * Environmental Science Major with Biology Minor and Water Studies Certificate 
  * [Email](kpatric4@msudenver.edu)
  * [Website](https://finalfemme.github.io/Rosie-esiil-stars/)
+ 
+ ***
+ 
+ <img style="float:right;" src="https://avatars.githubusercontent.com/u/127805340?v=4" width="125" height="125">
+ 
+ ### Scott Sheldon
+ 
+* Environmental Science Major with Biology Minor
+* <a href="mailto: ssheldo2@msudenver.edu" target = "_blank">**Email**</a>
+* <a href="https://scottnsheldon.github.io/ScottNSheldon-esiil-stars-webpage/" target="_blank">**Website**</a>
   
  
 ***
