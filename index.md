@@ -62,7 +62,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 <img style="float: right;" src="https://www.colorado.edu/geography/sites/default/files/styles/small/public/people/nathan_korinek_headshot.jpg?itok=l70G8Z8e" width="125" height="125">  
 
-### Nathan Korinek
+### **Nathan Korinek**
 
 * M.A. Student of Geography; Research Assistant - Earth Lab
 * <a href="mailto: nako1890@colorado.edu" target="_blank">**Email**</a>
@@ -118,7 +118,7 @@ We appreciate these partnerships and look forward to working with you all!
  <img style="float: right;" src="https://user-images.githubusercontent.com/127869863/229164811-c0d7031d-5df1-456c-a8b6-5fc980e2fa6c.jpg"
  width="125" height= "125">
 
- ### **Eva Weddell**
+### **Eva Weddell**
  * Senior at OLC - Conservation Biology
  * <a href = "mailto: eweddell26630@olc.edu" target="_blank">**EMAIL** </a>
  * <a href = "https://github.com/evaweddell/evaweddell-esiil-stars-webpage" target="_blank">**WEBSITE**
