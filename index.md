@@ -152,12 +152,13 @@ We appreciate these partnerships and look forward to working with you all!
 ## United Tribes Technical College (UTTC)
 ### **Faculty Mentors** 
  
-<img style="float: right;" src="Emily Biggane_TCJ_image.jpg" width="125" height="125">
+<img style="float: right;" src="Emily Biggane_TCJ_image.jpg" width="125">
 
 ### **Emily Biggane** 
 
 * Research Faculty - Intertribal Research and Resource Center; UTTC
 * <a href = "mailto: ebiggane@uttc.edu" target="_blank">**Email** </a>
+* <a href = "https://ebiggane.github.io/EBiggane_ESIIL_Stars_webpage/" target="_blank">**WEBSITE**
 
 ***
 
