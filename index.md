@@ -177,6 +177,15 @@ We appreciate these partnerships and look forward to working with you all!
 ### **ESIIL Interns** 
 (please add your profiles)
 
+
+<img style="float: right;" src="https://github.com/TrisDavis/tristin-esiil-stars-webpage/raw/main/Tristin.JPG" width="125" height="125">
+  
+### **Tristin Davis** 
+
+* Sophmore at UTTC - Information Technology
+* <a href = "mailto: davis.tristin@stu.uttc.edu" target="_blank">**Email** </a>
+* <a href = "https://trisdavis.github.io/tristin-esiil-stars-webpage/" target="_blank">**Website**</a>
+ 
 ***
 
 ## **EDSC Advanced Intern Peer Mentors** 
