@@ -165,7 +165,7 @@ We appreciate these partnerships and look forward to working with you all!
 ### **Kianna Stroh**
  * Sophmore at UTTC - Environmental Science and Research
  * <a href = "mailto: stroh.kianna@stu.uttc.edu" target="_blank">**EMAIL** </a>
- * <a href = "https://KiStroh.github.io/KiStroh-esiil-stars-webpage" target="_blank">**WEBSITE** </a>
+ * <a href = "https://Kistroh.github.io/Kistroh-esiil-stars-webpage" target="_blank">**WEBSITE** </a>
  
 ***
 
