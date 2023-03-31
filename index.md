@@ -111,6 +111,18 @@ We appreciate these partnerships and look forward to working with you all!
 * Sophmore at OLC - Information Technology
 * <a href = "mailto: alaundreaux28729@olc.edu" target="_blank">**Email** </a>
 * <a href = "https://amberlx17.github.io/alaundreaux-esiil-webpage/" target="_blank">**Website**</a>
+ 
+ 
+ ***
+ 
+ <img style="float: right;" src="https://user-images.githubusercontent.com/127869863/229164811-c0d7031d-5df1-456c-a8b6-5fc980e2fa6c.jpg"
+ width="125" height= "125">
+
+ ### **Eva Weddell**
+ * Senior at OLC - Conservation Biology
+ * <a href = "mailto: eweddell26630@olc.edu" target="_blank">**EMAIL** </a>
+ * <a href = "https://github.com/evaweddell/evaweddell-esiil-stars-webpage" target="_blank">**WEBSITE**
+ 
 
 ***
 
