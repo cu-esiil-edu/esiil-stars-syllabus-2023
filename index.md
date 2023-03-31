@@ -159,14 +159,6 @@ We appreciate these partnerships and look forward to working with you all!
 ### **ESIIL Interns** 
 (please add your profiles)
 
- <img style="float: right;" src="https://github.com/KiStroh/Kistroh-esiil-stars-webpage/raw/main/SELFIE_30.jpg"
- width="125"/>
- 
-### **Kianna Stroh**
- * Sophmore at UTTC - Environmental Science and Research
- * <a href = "mailto: stroh.kianna@stu.uttc.edu" target="_blank">**EMAIL** </a>
- * <a href = "https://KiStroh.github.io/KiStroh-esiil-stars-webpage" target="_blank">**WEBSITE** </a>
- 
 ***
 
 ## **EDSC Advanced Intern Peer Mentors** 
