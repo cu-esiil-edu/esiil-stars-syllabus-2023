@@ -74,8 +74,19 @@ We appreciate these partnerships and look forward to working with you all!
 
 ## Metropolitan State University of Denver (MSU)
 ### **Faculty Mentors** 
+ 
 (please add your profiles)
 
+ 
+ <img style="float: right;" src="https://avatars.githubusercontent.com/u/86791108?v=4true" width="125" height="125">
+
+ ### Sylvia Brady
+ 
+ * MSU Denver Faculty Mentor 
+ * [Email](sbrady16@msudenver.edu)
+ * [Website](https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/)
+  
+ 
 ***
 
 ### **ESIIL Interns** 
