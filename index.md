@@ -95,7 +95,7 @@ We appreciate these partnerships and look forward to working with you all!
  
 ### Meghan Smedes
  
- * Geographic Information Systems Concentration
+ * Geographic Information Systems Certificate at Metropolitan State University of Denver
  * [Email](msmedes@msudenver.edu)
  * [Website](https://megsmedes.github.io/megsmedes-ESIIL-Stars-Webpage/)
  
