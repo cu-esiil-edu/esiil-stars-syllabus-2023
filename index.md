@@ -177,10 +177,19 @@ We appreciate these partnerships and look forward to working with you all!
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/66485414?s=400&u=00070fe128f50bf4ac6930de6978be1a4d463abc&v=4" width="125">
 
 ### **Emily Biggane** 
-
 * Research Faculty - Intertribal Research and Resource Center; UTTC
 * <a href = "mailto: ebiggane@uttc.edu" target="_blank">**Email** </a>
 * <a href = "https://ebiggane.github.io/EBiggane_ESIIL_Stars_webpage/" target="_blank">**WEBSITE**
+
+***
+
+<img style="float: right;" src="https://user-images.githubusercontent.com/128650432/229696700-6a12f1bd-802f-4c7d-9537-b2406ad59c82.jpg" width="125" height="125">
+ 
+### **Angel Levering**
+ * Freshman at UTTC - Information Technology
+ * <a href = "mailto: levering.angel@stu.uttc.edu" target="_blank">**EMAIL** </a>
+ * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**WEBSITE**
+
 
 ***
 
