@@ -105,7 +105,7 @@ We appreciate these partnerships and look forward to working with you all!
 
  <img style="float:right;" src="https://avatars.githubusercontent.com/u/127805340?v=4" width="125" height="125">
  
- ### Scott Sheldon
+### Scott Sheldon
  
 * Environmental Science Major with Biology Minor
 * <a href="mailto: ssheldo2@msudenver.edu" target = "_blank">**Email**</a>
