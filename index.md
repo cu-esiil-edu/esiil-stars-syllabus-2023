@@ -183,16 +183,6 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://user-images.githubusercontent.com/128650432/229696700-6a12f1bd-802f-4c7d-9537-b2406ad59c82.jpg" width="125" height="125">
- 
-### **Angel Levering**
- * Freshman at UTTC - Information Technology
- * <a href = "mailto: levering.angel@stu.uttc.edu" target="_blank">**EMAIL** </a>
- * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**WEBSITE**
-
-
-***
-
 ### **ESIIL Interns** 
 (please add your profiles)
 
@@ -204,6 +194,13 @@ We appreciate these partnerships and look forward to working with you all!
 * Sophmore at UTTC - Information Technology
 * <a href = "mailto: davis.tristin@stu.uttc.edu" target="_blank">**Email** </a>
 * <a href = "https://trisdavis.github.io/tristin-esiil-stars-webpage/" target="_blank">**Website**</a>
+ 
+ <img style="float: right;" src="https://user-images.githubusercontent.com/128650432/229696700-6a12f1bd-802f-4c7d-9537-b2406ad59c82.jpg" width="125" height="125">
+ 
+### **Angel Levering**
+ * Freshman at UTTC - Information Technology
+ * <a href = "mailto: levering.angel@stu.uttc.edu" target="_blank">**Email** </a>
+ * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**Website**
  
 ***
 
