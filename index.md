@@ -121,6 +121,16 @@ We appreciate these partnerships and look forward to working with you all!
  * [Email](msmedes@msudenver.edu)
  * [Website](https://megsmedes.github.io/megsmedes-ESIIL-Stars-Webpage/)
 
+ ***
+ 
+ <img style="float: right;" src="https://avatars.githubusercontent.com/u/127925315?s=400&u=19f31e07236a03b08c22e2ba2a1c388fbc3fca15&v=4" width="125" height="125">
+ 
+ ### Celeste Leedle
+ 
+  * Environmental Science Major with Climate Change Minor 
+  * <a href="mailto: cleedle@msudenver.edu" target = "_blank">**Email**</a>
+  * <a href="https://cleedle.github.io/cleedle-esiil-stars-webpage/" target="_blank">**Website**</a>
+ 
  
 ***
   
