@@ -125,7 +125,7 @@ We appreciate these partnerships and look forward to working with you all!
  
  <img style="float: right;" src="https://avatars.githubusercontent.com/u/127925315?s=400&u=19f31e07236a03b08c22e2ba2a1c388fbc3fca15&v=4" width="125" height="125">
  
- ### Celeste Leedle
+### Celeste Leedle
  
   * Environmental Science Major with Climate Change Minor 
   * <a href="mailto: cleedle@msudenver.edu" target = "_blank">**Email**</a>
@@ -197,7 +197,7 @@ We appreciate these partnerships and look forward to working with you all!
 (please add your profiles)
 
 
-<img width="125" alt="esiil-pic4" src="https://user-images.githubusercontent.com/128166429/230536246-ea6c3f84-4c5e-418e-842f-cdac43259c1f.png">
+<img style="float: right;" width="125" alt="esiil-pic4" src="https://user-images.githubusercontent.com/128166429/230536246-ea6c3f84-4c5e-418e-842f-cdac43259c1f.png">
 
 ### **Reuben Stands**
  * first year UTTC - Computer Information Technology
