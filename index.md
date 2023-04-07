@@ -159,6 +159,12 @@ We appreciate these partnerships and look forward to working with you all!
 ### **ESIIL Interns** 
 (please add your profiles)
 
+<img width="125" alt="esiil-pic4" src="https://user-images.githubusercontent.com/128166429/230536246-ea6c3f84-4c5e-418e-842f-cdac43259c1f.png">
+
+### **Reuben Stands**
+ * first year UTTC - Computer Information Technology
+ * <a href = "mailto: stands.reuben@stu.uttc.edu" target="_blank">**EMAIL** </a>
+ * <a href = "https://github.com/Haak0/Reubens-esiil-stars-webpage" target="_blank">**WEBSITE**
 ***
 
 ## **EDSC Advanced Intern Peer Mentors** 
