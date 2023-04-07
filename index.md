@@ -197,6 +197,15 @@ We appreciate these partnerships and look forward to working with you all!
 (please add your profiles)
 
 
+<img width="125" alt="esiil-pic4" src="https://user-images.githubusercontent.com/128166429/230536246-ea6c3f84-4c5e-418e-842f-cdac43259c1f.png">
+
+### **Reuben Stands**
+ * first year UTTC - Computer Information Technology
+ * <a href = "mailto: stands.reuben@stu.uttc.edu" target="_blank">**EMAIL** </a>
+ * <a href = "https://github.com/Haak0/Reubens-esiil-stars-webpage" target="_blank">**WEBSITE**
+
+***
+
 <img style="float: right;" src="https://github.com/TrisDavis/tristin-esiil-stars-webpage/raw/main/Tristin.JPG" width="125" height="125">
   
 ### **Tristin Davis** 
@@ -214,6 +223,7 @@ We appreciate these partnerships and look forward to working with you all!
  * <a href = "mailto: levering.angel@stu.uttc.edu" target="_blank">**Email** </a>
  * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**Website**
  
+
 ***
 
 ## **EDSC Advanced Intern Peer Mentors** 
