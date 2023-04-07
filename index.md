@@ -260,7 +260,7 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 ## Spring Training Assignments
   * Assignment 0: <a href="https://cu-esiil-edu.github.io/esiil-stars-student-webpages/" target="_blank">**GitHub Pages**</a>
   * Assignment 1: <a href="https://cu-esiil-edu.github.io/esiil-stars-github-intro/" target="_blank">**GitHub for Collaboration**</a>
-  * Assignment 2: **Open & Reproducible Science with Python**
+  * Assignment 2: <a href="https://classroom.github.com/a/SqxR6_aP" target="_blank">**Open & Reproducible Science with Python**</a>
   
 ***
   
