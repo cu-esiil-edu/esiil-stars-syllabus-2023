@@ -174,8 +174,17 @@ We appreciate these partnerships and look forward to working with you all!
  * Senior at OLC - Conservation Biology
  * <a href = "mailto: eweddell26630@olc.edu" target="_blank">**EMAIL** </a>
  * <a href = "https://github.com/evaweddell/evaweddell-esiil-stars-webpage" target="_blank">**WEBSITE**
- 
 
+***
+ 
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/127756170?v=4" width="125" height="125">
+                                                                                                               
+### **Summer Dupree**
+
+* Sophomore at OLC - Conservation Biology
+* <a href = "mailto: sdupree27886@olc.edu" target="_blank">**Email** </a>                   
+* <a href = "https://sdupree27886.github.io/sdupree-esiil-stars/" target="_blank">**Website** </a>
+                                                          
 ***
 
 
