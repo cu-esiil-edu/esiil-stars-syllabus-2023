@@ -193,7 +193,7 @@ We appreciate these partnerships and look forward to working with you all!
 ## United Tribes Technical College (UTTC)
 ### **Faculty Mentors** 
  
-<img style="float: right;" src="https://avatars.githubusercontent.com/u/66485414?s=400&u=00070fe128f50bf4ac6930de6978be1a4d463abc&v=4" width="125">
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/66485414?v=4" width="125">
 
 ### **Emily Biggane** 
 * Research Faculty - Intertribal Research and Resource Center; UTTC
