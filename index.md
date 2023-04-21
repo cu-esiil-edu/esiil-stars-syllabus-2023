@@ -201,6 +201,12 @@ We appreciate these partnerships and look forward to working with you all!
 * <a href = "https://ebiggane.github.io/EBiggane_ESIIL_Stars_webpage/" target="_blank">**WEBSITE**
 
 ***
+ ### **Jess Logan** 
+* Computer Information Technology Instructor; UTTC
+* <a href = "mailto: jlogan@uttc.edu" target="_blank">**Email** </a>
+* <a href = "https://jlogannd.github.io/jlogannd-esiil-stars-webpage/" target="_blank">**WEBSITE**
+
+***
 
 ### **ESIIL Interns** 
 (please add your profiles)
