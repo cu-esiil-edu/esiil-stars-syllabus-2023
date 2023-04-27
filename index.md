@@ -231,10 +231,21 @@ We appreciate these partnerships and look forward to working with you all!
 * Sophmore at UTTC - Information Technology
 * <a href = "mailto: davis.tristin@stu.uttc.edu" target="_blank">**Email** </a>
 * <a href = "https://trisdavis.github.io/tristin-esiil-stars-webpage/" target="_blank">**Website**</a>
- 
+
+***
+
+<img style="float: right;" src="https://github.com/KiStroh/Kistroh-esiil-stars-webpage/raw/main/SELFIE_30.jpg" width="125">
+
+### **Kianna Stroh**
+ * Sophmore at UTTC - Environmental Science and Research
+ * <a href = "mailto: stroh.kianna@stu.uttc.edu" target="_blank">**EMAIL** </a>
+ * <a href = "https://Kistroh.github.io/Kistroh-esiil-stars-webpage" target="_blank">**WEBSITE** </a>
+
+
 ***
  
  <img style="float: right;" src="https://user-images.githubusercontent.com/128650432/229696700-6a12f1bd-802f-4c7d-9537-b2406ad59c82.jpg" width="125" height="125">
+
  
 ### **Angel Levering**
  * Freshman at UTTC - Information Technology
