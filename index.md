@@ -202,7 +202,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
  
-<img style="float: right," src="https://raw.githubusercontent.com/jlogannd/jlogannd-esiil-stars-webpage/main/JessFirstDaySchool.jpg" width="125" height="125">
+<img style="float: right;" src="https://raw.githubusercontent.com/jlogannd/jlogannd-esiil-stars-webpage/main/JessFirstDaySchool.jpg" width="125" height="125">
  
 ### **Jess Logan** 
 * Computer Information Technology Instructor; UTTC
