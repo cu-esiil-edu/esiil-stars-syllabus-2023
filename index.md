@@ -1,4 +1,4 @@
-<img align="right" width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
+<img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
 # Syllabus - ESIIL Stars Internship 2023
 
@@ -80,7 +80,7 @@ We appreciate these partnerships and look forward to working with you all!
  
  <img style="float: right;" src="https://avatars.githubusercontent.com/u/86791108?v=4true" width="125" height="125">
 
- ### Sylvia Brady
+### Sylvia Brady
  
  * MSU Denver Faculty Mentor 
  * [Email](sbrady16@msudenver.edu)
@@ -102,13 +102,35 @@ We appreciate these partnerships and look forward to working with you all!
  
  ***
  
- <img style="float: right;" src="https://avatars.githubusercontent.com/u/127235615?s=400&u=15e63829ea0875e396012f219a7ed7d97ace5bfd&v=4" width="125" height="125">
+
+ <img style="float:right;" src="https://avatars.githubusercontent.com/u/127805340?v=4" width="125" height="125">
+ 
+### Scott Sheldon
+ 
+* Environmental Science Major with Biology Minor
+* <a href="mailto: ssheldo2@msudenver.edu" target = "_blank">**Email**</a>
+* <a href="https://scottnsheldon.github.io/ScottNSheldon-esiil-stars-webpage/" target="_blank">**Website**</a>
+  
+***
+
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/127235615?s=400&u=15e63829ea0875e396012f219a7ed7d97ace5bfd&v=4" width="125" height="125">
  
 ### Meghan Smedes
  
  * Geographic Information Systems Certificate at Metropolitan State University of Denver
  * [Email](msmedes@msudenver.edu)
  * [Website](https://megsmedes.github.io/megsmedes-ESIIL-Stars-Webpage/)
+
+ ***
+ 
+ <img style="float: right;" src="https://avatars.githubusercontent.com/u/127925315?s=400&u=19f31e07236a03b08c22e2ba2a1c388fbc3fca15&v=4" width="125" height="125">
+ 
+### Celeste Leedle
+ 
+  * Environmental Science Major with Climate Change Minor 
+  * <a href="mailto: cleedle@msudenver.edu" target = "_blank">**Email**</a>
+  * <a href="https://cleedle.github.io/cleedle-esiil-stars-webpage/" target="_blank">**Website**</a>
+ 
  
 ***
   
@@ -123,6 +145,16 @@ We appreciate these partnerships and look forward to working with you all!
 
 ### **ESIIL Interns** 
 (please add your profiles)
+ 
+ <img style="float: right;" src="https://avatars.githubusercontent.com/u/128172520?v=4" width="125" height="125">
+
+### **Michael DuBray** 
+
+* Junior - OLC - Physics
+* <a href="mailto: mdubray16514@olc.edu" target="_blank">**Email**</a>
+* <a href="https://doobernicus.github.io/michaels_repository/" target="_blank">**Website**</a>
+
+***
  
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/127763949?v=4" width="125" height="125">
   
@@ -142,8 +174,17 @@ We appreciate these partnerships and look forward to working with you all!
  * Senior at OLC - Conservation Biology
  * <a href = "mailto: eweddell26630@olc.edu" target="_blank">**EMAIL** </a>
  * <a href = "https://github.com/evaweddell/evaweddell-esiil-stars-webpage" target="_blank">**WEBSITE**
- 
 
+***
+ 
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/127756170?v=4" width="125" height="125">
+                                                                                                               
+### **Summer Dupree**
+
+* Sophomore at OLC - Conservation Biology
+* <a href = "mailto: sdupree27886@olc.edu" target="_blank">**Email** </a>                   
+* <a href = "https://sdupree27886.github.io/sdupree-esiil-stars/" target="_blank">**Website** </a>
+                                                          
 ***
 
 
@@ -151,22 +192,67 @@ We appreciate these partnerships and look forward to working with you all!
 
 ## United Tribes Technical College (UTTC)
 ### **Faculty Mentors** 
-(please add your profiles)
+ 
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/66485414?v=4" width="125">
 
+### **Emily Biggane** 
+* Research Faculty - Intertribal Research and Resource Center; UTTC
+* <a href = "mailto: ebiggane@uttc.edu" target="_blank">**Email** </a>
+* <a href = "https://ebiggane.github.io/EBiggane_ESIIL_Stars_webpage/" target="_blank">**WEBSITE**
+
+***
+ 
+<img style="float: right," src="https://github.com/jlogannd/jlogannd-esiil-stars-webpage/blob/main/JessFirstDaySchool.jpg" width="125">
+ 
+### **Jess Logan** 
+* Computer Information Technology Instructor; UTTC
+* <a href = "mailto: jlogan@uttc.edu" target="_blank">**Email** </a>
+* <a href = "https://jlogannd.github.io/jlogannd-esiil-stars-webpage/" target="_blank">**WEBSITE**
 
 ***
 
 ### **ESIIL Interns** 
 (please add your profiles)
 
- <img style="float: right;" src="https://github.com/KiStroh/Kistroh-esiil-stars-webpage/raw/main/SELFIE_30.jpg"
- width="125"/>
- 
+
+<img style="float: right;" width="125" alt="esiil-pic4" src="https://user-images.githubusercontent.com/128166429/230536246-ea6c3f84-4c5e-418e-842f-cdac43259c1f.png">
+
+### **Reuben Stands**
+ * first year UTTC - Computer Information Technology
+ * <a href = "mailto: stands.reuben@stu.uttc.edu" target="_blank">**EMAIL** </a>
+ * <a href = "https://github.com/Haak0/Reubens-esiil-stars-webpage" target="_blank">**WEBSITE**
+
+***
+
+<img style="float: right;" src="https://github.com/TrisDavis/tristin-esiil-stars-webpage/raw/main/Tristin.JPG" width="125" height="125">
+  
+### **Tristin Davis** 
+
+* Sophmore at UTTC - Information Technology
+* <a href = "mailto: davis.tristin@stu.uttc.edu" target="_blank">**Email** </a>
+* <a href = "https://trisdavis.github.io/tristin-esiil-stars-webpage/" target="_blank">**Website**</a>
+
+***
+
+<img style="float: right;" src="https://github.com/KiStroh/Kistroh-esiil-stars-webpage/raw/main/SELFIE_30.jpg" width="125">
+
 ### **Kianna Stroh**
  * Sophmore at UTTC - Environmental Science and Research
  * <a href = "mailto: stroh.kianna@stu.uttc.edu" target="_blank">**EMAIL** </a>
  * <a href = "https://Kistroh.github.io/Kistroh-esiil-stars-webpage" target="_blank">**WEBSITE** </a>
+
+
+***
  
+ <img style="float: right;" src="https://user-images.githubusercontent.com/128650432/229696700-6a12f1bd-802f-4c7d-9537-b2406ad59c82.jpg" width="125" height="125">
+
+ 
+### **Angel Levering**
+ * Freshman at UTTC - Information Technology
+ * <a href = "mailto: levering.angel@stu.uttc.edu" target="_blank">**Email** </a>
+ * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**Website**
+ 
+
 ***
 
 ## **EDSC Advanced Intern Peer Mentors** 
@@ -223,7 +309,7 @@ Starting in the summer semester (**early-June**), group projects will begin. Fro
 ## Spring Training Assignments
   * Assignment 0: <a href="https://cu-esiil-edu.github.io/esiil-stars-student-webpages/" target="_blank">**GitHub Pages**</a>
   * Assignment 1: <a href="https://cu-esiil-edu.github.io/esiil-stars-github-intro/" target="_blank">**GitHub for Collaboration**</a>
-  * Assignment 2: **Open & Reproducible Science with Python**
+  * Assignment 2: **Get Started With Reproducible Science** (see Discourse for link to assignment)
   
 ***
   
