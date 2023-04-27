@@ -202,7 +202,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
  
-<img style="float: right," src="https://github.com/jlogannd/jlogannd-esiil-stars-webpage/blob/main/JessFirstDaySchool.jpg" width="125">
+<img style="float: right," src="https://raw.githubusercontent.com/jlogannd/jlogannd-esiil-stars-webpage/main/JessFirstDaySchool.jpg" width="125" height="125">
  
 ### **Jess Logan** 
 * Computer Information Technology Instructor; UTTC
@@ -234,7 +234,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://github.com/KiStroh/Kistroh-esiil-stars-webpage/raw/main/SELFIE_30.jpg" width="125">
+<img style="float: right;" src="https://github.com/KiStroh/Kistroh-esiil-stars-webpage/raw/main/SELFIE_30.jpg" width="125" height="125">
 
 ### **Kianna Stroh**
  * Sophmore at UTTC - Environmental Science and Research
