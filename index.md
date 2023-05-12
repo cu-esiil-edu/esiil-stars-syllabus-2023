@@ -250,7 +250,7 @@ We appreciate these partnerships and look forward to working with you all!
 ### **Angel Levering**
  * Freshman at UTTC - Information Technology
  * <a href = "mailto: levering.angel@stu.uttc.edu" target="_blank">**Email** </a>
- * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**Website**
+ * <a href = "https://angellevering.github.io/ESIIL/" target="_blank">**Website** </a>
  
 
 ***
@@ -258,6 +258,13 @@ We appreciate these partnerships and look forward to working with you all!
 ## **EDSC Advanced Intern Peer Mentors** 
 (please add your profiles)
 
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/86793398?s=400&u=a8fbe84f623db4139fd2d6243498df7c4f102593&v=4"  height="125">
+ 
+### **Trey O. Phelps**
+ * Senior at OLC - Conservation Biology
+ * <a href = "mailto: tphelps24422@olc.edu" target="_blank">**Email** </a>
+ * <a href = "https://treyorion.github.io/treyorion-esiil-stars-webpage/" target="_blank">**Website** </a>
+ 
 
 
 ***
