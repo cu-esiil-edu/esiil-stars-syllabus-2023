@@ -260,13 +260,13 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
  
- <img style="float: right;" src="https://user-images.githubusercontent.com/128856197/227646156-410f6c6f-b9f4-47c3-bea1-133d1506c48f.JPG" width="125" height="125">
+<img style="float: right;" src="https://user-images.githubusercontent.com/128856197/227646156-410f6c6f-b9f4-47c3-bea1-133d1506c48f.JPG" width="125" height="125">
 
  
 ### **Madison Phelps**
  * Junior at SDSM&T - Civil and Environmental Engineering
  * <a href = "mailto: madison.phelps@mines.sdsmt.edu" target="_blank">**Email** </a>
- * <a href = "https://sm3ag0l.github.io/madison-phelps-esiil-stars-webpage/)" target="_blank">**Website** </a>
+ * <a href = "https://sm3ag0l.github.io/madison-phelps-esiil-stars-webpage/" target="_blank">**Website** </a>
  
  
 ***
