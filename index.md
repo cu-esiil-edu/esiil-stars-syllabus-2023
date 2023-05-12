@@ -258,6 +258,7 @@ We appreciate these partnerships and look forward to working with you all!
 ## **EDSC Advanced Intern Peer Mentors** 
 (please add your profiles)
 
+ 
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/86793398?s=400&u=a8fbe84f623db4139fd2d6243498df7c4f102593&v=4"  height="125">
  
 ### **Trey O. Phelps**
@@ -265,8 +266,16 @@ We appreciate these partnerships and look forward to working with you all!
  * <a href = "mailto: tphelps24422@olc.edu" target="_blank">**Email** </a>
  * <a href = "https://treyorion.github.io/treyorion-esiil-stars-webpage/" target="_blank">**Website** </a>
  
+***
 
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/128856197?s=400&u=86dc90d515121d30865004b348aaa73c9059ff13&v=4" width="125" height="125">
 
+### **Madison Phelps**
+ * Junior at SDSM&T - Civil and Environmental Engineering
+ * <a href = "mailto: madison.phelps@mines.sdsmt.edu" target="_blank">**Email** </a>
+ * <a href = "https://sm3ag0l.github.io/madison-phelps-esiil-stars-webpage/" target="_blank">**Website** </a>
+ 
+ 
 ***
 
 
