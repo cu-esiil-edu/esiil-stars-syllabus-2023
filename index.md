@@ -40,7 +40,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
-<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFIoqS91aBcaw/profile-displayphoto-shrink_200_200/0/1674354325257?e=1683763200&v=beta&t=Ua-EWUlQOzMrEdR61FS6UV0LDhwK4oltMOJeyMVIb1A" width="125" height="125">
+<img style="float: right;" src="https://esiil.org/sites/default/files/inline-images/20221003_143744_1.jpg" width="125" height="125">
 
 ### **Jim Sanovia**
 
