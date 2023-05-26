@@ -277,7 +277,15 @@ We appreciate these partnerships and look forward to working with you all!
  
  
 ***
-
+ 
+<img style="float: right;" src="https://wakunza.github.io/brett-esiil-stars-webpage/Brett.jpg" width="125" height="125">
+ 
+### **Brett Alberts**
+ * Senior at UTTC - Environmental Science and Research
+ * <a href = "mailto: albertsbrett@gmail.com" target="_blank">**Email**</a>
+ * <a href = "https://wakunza.github.io/brett-esiil-stars-webpage/" target="_blank">**Website**</a>
+ 
+***
 
 ## Course Links:
 
