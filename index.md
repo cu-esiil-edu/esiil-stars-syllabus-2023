@@ -137,7 +137,7 @@ We appreciate these partnerships and look forward to working with you all!
 ![IMG_0036](https://user-images.githubusercontent.com/130732755/231966933-a789bff4-ddaa-4536-aaa8-7c30b323ce72.jpg)
 
 * Geospatial Science Major and Technical Writing Minor
-* <a href='mailto: krohlehr@mmsudenver.edu" target = "_blank">**Email**</a>
+* [Email](krohlehr@mmsudenver.edu)
 * [Website](https://https://kroh04.github.io/kroh04-ESIIL-STARS-webpage/) 
 
   
