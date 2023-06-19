@@ -130,6 +130,8 @@ We appreciate these partnerships and look forward to working with you all!
   * Environmental Science Major with Climate Change Minor 
   * <a href="mailto: cleedle@msudenver.edu" target = "_blank">**Email**</a>
   * <a href="https://cleedle.github.io/cleedle-esiil-stars-webpage/" target="_blank">**Website**</a>
+
+  ***
  
 ### Kaiea Rohlehr
 
