@@ -138,7 +138,9 @@ We appreciate these partnerships and look forward to working with you all!
 
 * Geospatial Science Major and Technical Writing Minor
 * [Email](krohlehr@mmsudenver.edu)
-* [Website](https://https://kroh04.github.io/kroh04-ESIIL-STARS-webpage/) 
+* [Website](https://https://kroh04.github.io/kroh04-ESIIL-STARS-webpage/)
+
+  ***
 
   
 <img src="https://www.olc.edu/theme/olc/images/logo.png">
