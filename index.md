@@ -131,8 +131,12 @@ We appreciate these partnerships and look forward to working with you all!
   * <a href="mailto: cleedle@msudenver.edu" target = "_blank">**Email**</a>
   * <a href="https://cleedle.github.io/cleedle-esiil-stars-webpage/" target="_blank">**Website**</a>
  
- 
-***
+### Kaiea Rohlehr
+
+* Geospatial Science Major and Technical Writing Minor
+* <a href='mailto: krohlehr@mmsudenver.edu" target = "_blank">**Email**</a>
+* [Website](https://https://kroh04.github.io/kroh04-ESIIL-STARS-webpage/) 
+
   
 <img src="https://www.olc.edu/theme/olc/images/logo.png">
   
